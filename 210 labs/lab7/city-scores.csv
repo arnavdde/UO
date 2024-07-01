@@ -1,0 +1,267 @@
+Name,Country,Continent,Housing,Cost_of_Living,Commute,Safety,Healthcare,Education
+Aarhus,Denmark,Europe,6.1315,4.015,6.31175,9.6165,8.70433333333333,5.3665
+Adelaide,Australia,Oceania,6.3095,4.692,5.33625,7.926,7.93666666666667,5.142
+Albuquerque,New Mexico,North America,7.262,6.059,5.05575,1.3435,6.43,4.152
+Almaty,Kazakhstan,Asia,9.282,9.333,5.87125,7.309,4.54566666666667,2.283
+Amsterdam,Netherlands,Europe,3.053,3.824,6.1185,8.5035,7.90733333333333,6.18
+Anchorage,Alaska,North America,5.4335,3.141,4.71525,3.4705,6.06033333333333,3.6245
+Andorra,Andorra,Europe,3.969,0,0,9.5535,0,0
+Ankara,Turkey,Asia,9.928,9.125,5.291,7.425,6.91433333333333,2.0285
+Asheville,North Carolina,North America,5.856,5.311,1.358,5.8525,6.72533333333333,3.6245
+Asuncion,Paraguay,South America,9.2265,9.295,4.96875,6.9345,5.48533333333333,0
+Athens,Greece,Europe,9.0525,6.5,5.21975,6.7585,7.153,3.1625
+Atlanta,Georgia,North America,4.9755,5.241,3.89775,2.6725,6.02333333333333,6.457
+Auckland,New Zealand,Oceania,4.72,4.47,4.845,7.0215,8.16266666666667,5.0465
+Austin,Texas,North America,4.3345,5.355,4.3305,5.069,6.28166666666667,5.315
+Baku,Azerbaijan,Asia,9.745,9.806,5.492,8.772,3.702,0
+Bali,Indonesia,Asia,5,0,5.1935,8.7475,4.442,0.5275
+Baltimore,Maryland,North America,4.83,4.982,4.93475,2.373,6.87066666666667,5.8805
+Bangkok,Thailand,Asia,7.3935,7.222,4.2935,7.0365,7.12666666666667,1.6915
+Barcelona,Spain,Europe,6.323,6.074,5.69925,7.4075,8.40333333333333,5.029
+Beijing,China,Asia,6.173,8.101,4.83675,7.066,6.42333333333333,7.971
+Beirut,Lebanon,Asia,6.6555,6.3,4.77275,6.833,6.15933333333333,1.0035
+Belfast,United Kingdom,Europe,7.532,6.014,5.28,7.679,8.16833333333333,4.6865
+Belgrade,Serbia,Europe,9.2575,8.546,5.57825,6.6995,6.01033333333333,0.5
+Belize City,Belize,North America,4.6425,0,0,6.052,5.504,0
+Bengaluru,India,Asia,9.811,10,4.00625,7.294,3.937,0.656
+Bergen,Norway,Europe,5.2295,1.805,5.8875,7.7075,7.64666666666667,4.8395
+Berlin,Germany,Europe,6.395,5.524,6.196,7.2515,7.99066666666667,7.019
+Bern,Switzerland,Europe,4.9225,1,5.19775,9.266,7.52033333333333,5.3455
+Bilbao,Spain,Europe,6.888,5.638,5.77475,8.7805,9.32066666666667,3.759
+Birmingham,United Kingdom,Europe,5.9035,5.814,5.4935,6.9465,8.29366666666667,5.0265
+Birmingham,Alabama,North America,6.5555,5.133,2.02075,1.776,6.541,3.6245
+Bogota,Colombia,South America,9.0275,9.08,4.964,6.222,6.30166666666667,1.534
+Boise,Idaho,North America,6.9635,6.578,5.225,4.3605,6.79733333333333,3.6245
+Bologna,Italy,Europe,7.472,5.189,5.53,7.337,8.57766666666667,4.2025
+Bordeaux,France,Europe,7.1915,4.583,5.54975,7.466,8.82333333333333,4.442
+Boston,Massachusetts,North America,1,4.259,4.39625,7.742,6.729,8.6245
+Boulder,Colorado,North America,3.704,4.531,6.138,7.0735,7.05033333333333,4.679
+Bozeman,Montana,North America,2.949,0,0,6.9145,6.515,4.128
+Bratislava,Slovakia,Europe,7.8745,7.618,5.8115,8.618,6.752,3.2975
+Brighton,United Kingdom,Europe,2.49,5.324,5.5475,8.4715,7.71633333333333,4.906
+Brisbane,Australia,Oceania,5.212,5.177,4.61775,7.9035,8.31766666666667,5.921
+Bristol,United Kingdom,Europe,5.216,5.242,5.44375,7.94,8.25166666666667,5.4615
+Brno,Czechia,Europe,8.329,7.926,5.82725,8.5655,8.09666666666667,4.2265
+Brussels,Belgium,Europe,6.355,4.477,5.38675,6.703,8.15833333333333,6.653
+Bucharest,Romania,Europe,9.1865,8.516,5.0725,8.986,6.07533333333333,2.4475
+Budapest,Hungary,Europe,8.5705,7.948,5.395,8.2185,5.746,3.693
+Buenos Aires,Argentina,South America,8.812,7.764,4.9235,6.0395,6.979,1.422
+Buffalo,New York,North America,7.0765,5.228,2.154,7.1885,6.45733333333333,4.212
+Cairo,Egypt,Africa,10,10,3.99025,6.791,4.041,0.5
+Calgary,Canada,North America,6.495,5.418,5.1575,7.923,8.02633333333333,5.555
+Cambridge,United Kingdom,Europe,4.1055,4.851,5.62775,9.5045,8.189,6.5545
+Cape Town,South Africa,Africa,6.7635,7.955,3.8425,5.328,4.343,0.8945
+Caracas,Venezuela,South America,4.9025,9.82,4.54425,5.221,4.17833333333333,0
+Cardiff,United Kingdom,Europe,7.065,6.082,5.76475,8.21,8.31833333333333,4.7855
+Casablanca,Morocco,Africa,8.822,9.088,4.26,6.7755,4.47,0
+Charleston,South Carolina,North America,4.637,3.567,4.62075,5.0555,6.77966666666667,3.6245
+Charlotte,North Carolina,North America,5.549,4.987,4.134,5.3475,6.43233333333333,3.6245
+Chattanooga,Tennessee,North America,6.782,6.121,0.797,4.468,6.243,3.6245
+Chennai,India,Asia,10,10,4.842,7.837,4.07466666666667,0.5115
+Chiang Mai,Thailand,Asia,9.3725,8.495,5.14125,8.4525,7.39366666666667,1.6875
+Chicago,Illinois,North America,3.702,4.766,4.57975,3.832,6.216,7.999
+Chisinau,Moldova,Europe,9.6765,9.343,5.495,7.628,5.066,1.3995
+Christchurch,New Zealand,Oceania,6.934,5.096,5.51775,7.585,8.31233333333333,4.756
+Cincinnati,Ohio,North America,6.6775,6.108,4.7435,4.975,6.346,4.2805
+Cleveland,Ohio,North America,7.156,5.595,4.42125,3.637,6.75566666666667,4.6185
+Cluj-Napoca,Romania,Europe,9.165,8.794,5.876,9.4745,6.43433333333333,2.448
+Cologne,Germany,Europe,6.5265,5.607,5.38175,6.6295,8.04,5.1035
+Colorado Springs,Colorado,North America,6.4995,5.375,1.73525,5.3775,5.844,3.6245
+Columbus,Ohio,North America,6.2895,5.746,5.02675,5.2815,6.406,5.0475
+Copenhagen,Denmark,Europe,4.227,3.426,6.2955,9.1525,7.98533333333333,5.301
+Cork,Ireland,Europe,5.5145,4.902,5.50425,8.8395,7.42633333333333,4.879
+Curitiba,Brazil,South America,9.4295,8.433,4.95025,5.9465,5.897,1.0165
+Dallas,Texas,North America,5.259,6.091,4.4705,4.339,6.08666666666667,4.284
+Dar es Salaam,Tanzania,Africa,7.652,8.026,2.07575,6.1005,3.23866666666667,0
+Delhi,India,Asia,9.752,9.869,3.71225,6.4185,3.71266666666667,0.512
+Denver,Colorado,North America,3.8375,5.102,4.53,5.371,6.22033333333333,3.6245
+Des Moines,Iowa,North America,6.851,6.327,2.07225,6.984,6.709,3.6245
+Detroit,Michigan,North America,6.223,6.032,0.933,4.4615,5.78633333333333,5.8185
+Doha,Qatar,Asia,2.1315,6.183,4.61625,9.486,7.43366666666667,1.4335
+Dresden,Germany,Europe,7.8845,6.028,4.96,8.464,8.39366666666667,5.1245
+Dubai,United Arab Emirates,Asia,2.591,5.49,4.2285,9.172,6.392,2.28
+Dublin,Ireland,Europe,2.5125,4.005,5.44625,7.1215,6.81033333333333,5.6065
+Dusseldorf,Germany,Europe,6.282,5.134,5.283,8.166,8.00366666666667,4.3065
+Edinburgh,United Kingdom,Europe,5.845,5.114,5.9675,8.485,8.55233333333333,6.0925
+Edmonton,Canada,North America,6.7295,5.522,5.09725,7.1175,8.269,5.948
+Eindhoven,Netherlands,Europe,6.252,5.125,6.03175,9.107,8.55933333333333,5.0805
+Eugene,Oregon,North America,6.713,5.021,5.627,6.1715,6.56666666666667,4.1735
+Florence,Italy,Europe,6.775,4.649,6.02875,7.9725,8.16366666666667,4.058
+Florianopolis,Brazil,South America,9.0595,8.331,4.78775,6.525,5.433,1.0165
+Fort Collins,Colorado,North America,2.7445,0,2.0075,6.9355,6.831,4.1735
+Frankfurt,Germany,Europe,5.957,5.143,5.923,6.8375,7.70733333333333,5.2065
+Fukuoka,Japan,Asia,4.01,0,0,9.945,9.098,5.5275
+Galway,Ireland,Europe,6.2755,4.927,5.68975,8.89,7.07,5.0075
+Gdansk,Poland,Europe,8.508,8.127,5.861,8.0405,6.85566666666667,4.6615
+Geneva,Switzerland,Europe,1.0775,1,6.003,8.427,7.443,5.186
+Gibraltar,Gibraltar,Europe,1.112,0,0,9.3375,3.02333333333333,0
+Glasgow,United Kingdom,Europe,6.9285,5.623,5.35225,7.496,8.81333333333333,5.3065
+Gothenburg,Sweden,Europe,6.725,5.046,5.96875,7.296,8.10166666666667,4.7775
+Grenoble,France,Europe,7.505,4.317,5.52575,5.8875,9.063,4.549
+Guadalajara,Mexico,North America,9.527,9.49,4.3455,6.472,7.03433333333333,1.2095
+Guatemala City,Guatemala,North America,8.8125,8.175,0.52375,6.139,4.76366666666667,0
+Halifax,Canada,North America,6.895,4.943,5.40275,7.1885,7.88566666666667,5.42
+Hamburg,Germany,Europe,5.9445,4.904,5.8265,6.459,8.13,4.3065
+Hannover,Germany,Europe,7.754,6,6.54975,7.3525,8.13366666666667,4.834
+Havana,Cuba,North America,9.089,7.608,0,8.6335,6.99966666666667,0
+Helsinki,Finland,Europe,5.396,4.121,5.77925,8.674,7.95366666666667,5.4545
+Ho Chi Minh City,Vietnam,Asia,8.618,8.844,5.1835,6.7675,5.54033333333333,4.1165
+Hong Kong,Hong Kong,Asia,1,4.967,5.54025,9.3505,4.154,9.711
+Honolulu,Hawaii,North America,2.3415,2.867,4.16175,6.8565,6.431,4.2805
+Houston,Texas,North America,5.2245,6.162,4.03075,3.129,6.379,4.928
+Hyderabad,India,Asia,10,10,4.632,8.1265,3.95733333333333,0
+Indianapolis,Indiana,North America,6.266,5.478,4.85875,3.968,6.15133333333333,3.6245
+Innsbruck,Austria,Europe,6.708,4.732,6.374,8.273,7.88466666666667,4.33
+Istanbul,Turkey,Asia,9.1375,8.787,4.06575,6.8935,6.84,2.1525
+Jacksonville,Florida,North America,6.45,5.359,1.40575,3.8255,6.199,3.6245
+Jakarta,Indonesia,Asia,8.671,8.471,3.64,7.0005,4.184,1.0275
+Johannesburg,South Africa,Africa,8.012,7.575,3.91575,5.1655,3.64866666666667,0.7585
+Kansas City,Missouri,North America,6.7075,5.844,1.9725,4.4225,6.44966666666667,3.6245
+Karlsruhe,Germany,Europe,7.7645,5.294,4.9055,6.858,8.412,5.2075
+Kathmandu,Nepal,Asia,10,9.445,5.349,8.5055,4.116,0
+Kiev,Ukraine,Europe,9.0845,9.817,5.16075,7.2555,4.851,0.5
+Kingston,Jamaica,North America,8.8955,5.937,4.92675,5.5275,6.678,0
+Knoxville,Tennessee,North America,6.9755,6.447,1.943,5.1295,6.42166666666667,4.212
+Krakow,Poland,Europe,8.4245,8.509,5.629,8.5215,6.854,4.6625
+Kuala Lumpur,Malaysia,Asia,8.6635,8.238,4.37975,5.881,5.95033333333333,2.527
+Kyoto,Japan,Asia,3.765,0,2.5,10,9.07866666666667,6.241
+Lagos,Nigeria,Africa,7.767,9.098,3.56475,5.9995,2.86233333333333,0
+La Paz,Bolivia,South America,4.724,0,3.83425,6.7505,4.316,0
+Las Palmas de Gran Canaria,Spain,Europe,8.232,7.717,0,9.1545,9.21433333333333,3.759
+Las Vegas,Nevada,North America,7.001,5.759,4.8075,2.385,5.63533333333333,3.6245
+Lausanne,Switzerland,Europe,4.0755,1,5.85825,8.0325,7.352,6.622
+Leeds,United Kingdom,Europe,6.811,5.363,5.10575,7.731,8.63366666666667,4.9825
+Leipzig,Germany,Europe,8.177,5.911,6.01375,7.277,7.30033333333333,4.3065
+Lille,France,Europe,7.532,5.399,2.29375,6.942,9.071,4.3935
+Lima,Peru,South America,8.712,8.496,4.759,5.2905,5.71066666666667,0.5
+Lisbon,Portugal,Europe,6.734,7.004,5.31575,8.438,7.86033333333333,4.48
+Liverpool,United Kingdom,Europe,7.485,6.02,4.541,7.7285,9.02766666666667,4.872
+Ljubljana,Slovenia,Europe,8.214,6.749,5.69875,8.953,7.67166666666667,4.852
+London,United Kingdom,Europe,1,3.94,5.3955,7.2435,8.018,9.027
+Los Angeles,California,North America,1.5275,4.556,3.677,5.705,6.02733333333333,8.6245
+Louisville,Kentucky,North America,7.258,6.358,1.954,3.6175,6.16233333333333,3.6245
+Luxembourg,Luxembourg,Europe,2.453,3.411,5.8445,8.628,8.22033333333333,3.4795
+Lviv,Ukraine,Europe,9.778,10,5.48525,7.822,4.87,0
+Lyon,France,Europe,6.697,4.349,5.18525,7.1345,8.64166666666667,4.5805
+Madison,Wisconsin,North America,5.8295,6.173,5.47375,7.362,7.007,5.386
+Madrid,Spain,Europe,6.414,6.249,5.28575,7.7925,8.91633333333333,4.2915
+Malaga,Spain,Europe,8.0515,7.375,5.78275,7.693,8.65566666666667,3.759
+Malmo,Sweden,Europe,7.263,5.57,5.64675,6.598,8.215,3.893
+Managua,Nicaragua,North America,4.7855,0,0,7.7745,6.40366666666667,0
+Manchester,United Kingdom,Europe,6.4555,5.049,4.728,6.7725,8.519,5.652
+Manila,Philippines,Asia,8.5955,8.752,3.713,6.4345,4.29766666666667,0
+Marseille,France,Europe,7.5885,6.026,5.86075,5.252,8.84366666666667,4.442
+Medellin,Colombia,South America,9.2315,9.315,5.3545,7.477,6.79066666666667,1.531
+Melbourne,Australia,Oceania,4.83,4.798,4.872,7.1325,8.016,6.2205
+Memphis,Tennessee,North America,7.1145,5.829,1.9175,2.8585,4.95133333333333,3.6245
+Mexico City,Mexico,North America,8.36,9.244,3.806,5.464,6.38,1.713
+Miami,Florida,North America,3.031,4.497,4.05275,4.321,6.031,4.3945
+Milan,Italy,Europe,5.1945,4.801,5.512,7.378,8.44466666666667,4.283
+Milwaukee,Wisconsin,North America,6.1225,5.526,4.915,4.267,6.08233333333333,4.177
+Minneapolis-Saint Paul,Minnesota,North America,4.7385,5.042,4.925,5.085,6.681,5.2745
+Minsk,Belarus,Europe,9.4955,9.289,5.3655,9.038,5.51066666666667,0.5
+Montevideo,Uruguay,South America,8.183,6.197,5.288,5.9735,6.655,1.69
+Montreal,Canada,North America,7.392,5.948,5.107,7.822,7.395,7.299
+Moscow,Russia,Europe,6.555,8.099,4.54625,7.478,4.763,4.5725
+Mumbai,India,Asia,8.124,9.825,3.94,7.6185,3.80233333333333,0.5275
+Munich,Germany,Europe,4.23,4.648,6.014,9.049,8.371,7.5545
+Nairobi,Kenya,Africa,8.8505,8.432,4.069,5.972,3.59833333333333,0.5
+Nantes,France,Europe,7.7225,5.021,5.99775,7.6355,8.53333333333333,4.4045
+Naples,Italy,Europe,8.215,5.81,4.70575,6.3895,7.18633333333333,4.058
+Nashville,Tennessee,North America,4.4545,5.742,4.501,5.078,5.953,4.733
+New Orleans,Louisiana,North America,5.339,4.992,4.6275,2.088,5.884,4.152
+New York,New York,North America,1,2.342,5.51925,7.022,6.10533333333333,8.0935
+Nice,France,Europe,6.4985,4.475,6.051,7.234,8.32966666666666,4.4045
+Nicosia,Cyprus,Europe,8.631,6.301,5.49125,8.1025,6.75866666666667,2.475
+Oklahoma City,Oklahoma,North America,7.261,6.394,5.02725,4.6855,5.97666666666667,3.6245
+Omaha,Nebraska,North America,7.0405,5.994,2.12775,5.552,6.894,4.128
+Orlando,Florida,North America,5.7785,5.284,4.33875,4.134,5.96733333333333,3.6245
+Osaka,Japan,Asia,7.8315,4.819,5.255,10,8.70533333333333,5.5895
+Oslo,Norway,Europe,3.768,1.038,5.77525,7.1065,7.91,5.1445
+Ottawa,Canada,North America,6.7005,6.027,5.40525,8.4475,8.01133333333333,5.4235
+Oulu,Finland,Europe,3.7445,0,6.04075,8.4585,7.70133333333333,5.4545
+Oxford,United Kingdom,Europe,3.65,4.941,5.95825,8.5685,7.97,6.638
+Palo Alto,California,North America,0.5,0,2.20275,7.637,6.515,3.6245
+Panama,Panama,North America,3.153,0,0,6.976,6.59333333333333,0
+Paris,France,Europe,3.5835,3.664,5.3305,6.2465,8.20766666666667,7.085
+Perth,Australia,Oceania,5.233,4.795,4.695,7.1045,8.05933333333333,5.143
+Philadelphia,Pennsylvania,North America,4.207,4.422,4.1315,3.133,6.48266666666666,6.0285
+Phnom Penh,Cambodia,Asia,8.552,8.001,4.68,6.684,2.984,0
+Phoenix,Arizona,North America,6.533,6.208,4.8285,2.583,6.12633333333333,4.591
+Phuket,Thailand,Asia,8.823,7.602,4.50425,5.7285,6.65366666666667,1.187
+Pittsburgh,Pennsylvania,North America,5.9635,4.795,4.308,4.791,6.39966666666667,6.5935
+Portland,Maine,North America,0,0,1.97025,6.3585,5.17466666666667,3.6245
+Portland,Oregon,North America,4.138,4.924,4.908,5.1805,6.31766666666667,4.2155
+Porto,Portugal,Europe,8.1095,7.422,5.46,7.7045,8.16666666666667,4.449
+Porto Alegre,Brazil,South America,9.221,8.12,5.105,5.2955,5.56,1.017
+Prague,Czechia,Europe,7.4305,7.569,5.8465,8.6595,7.881,4.238
+Providence,Rhode Island,North America,3.153,0,2.422,6.846,6.515,5.3015
+Quebec,Canada,Europe,8.5175,6.037,5.28,9.1595,8.13133333333333,5.42
+Quito,Ecuador,South America,9.0165,7.822,4.78925,6.969,6.40633333333333,0
+Raleigh,North Carolina,North America,6.1285,5.61,4.78425,6.5225,6.67733333333333,7.1165
+Reykjavik,Iceland,Europe,2.7715,1,5.475,8.658,8.079,4.057
+Richmond,Virginia,North America,6.4395,5.949,5.6485,3.3765,6.48833333333333,3.6245
+Riga,Latvia,Europe,8.933,7.329,5.35275,7.6255,5.71,4.091
+Rio De Janeiro,Brazil,South America,8.32,7.751,4.55325,5.2955,4.84966666666667,1.0175
+Riyadh,Saudi Arabia,Asia,8.6965,7.806,4.75325,7.583,6.08566666666667,0.5035
+Rochester,New York,North America,6.727,5.488,1.90775,5.899,6.106,4.495
+Rome,Italy,Europe,5.6025,5.323,4.53325,6.6045,7.86366666666667,4.157
+Rotterdam,Netherlands,Europe,6.044,4.934,5.967,8.268,8.329,4.3065
+Saint Petersburg,Russia,Europe,8.3605,8.673,4.626,7.793,4.952,4.282
+Salt Lake City,Utah,North America,6.141,6.172,4.574,5.657,6.24633333333333,4.2805
+San Antonio,Texas,North America,6.402,6.683,4.96475,4.2165,6.307,4.152
+San Diego,California,North America,2.9335,5.156,4.40975,6.933,6.51966666666667,5.4575
+San Francisco Bay Area,California,North America,1,2.618,4.68725,5.7155,6.449,8.6245
+San Jose,Costa Rica,North America,8.1645,6.728,3.83425,6.709,7.43266666666667,1.2095
+San Juan,Puerto Rico,North America,7.4275,5.98,1.142,5.121,4.36333333333333,0
+San Luis Obispo,California,North America,1.7245,0,1.39225,8.058,5.87133333333333,3.6245
+San Salvador,El Salvador,North America,8.8015,7.743,4.6855,5.4025,5.55866666666667,0
+Santiago,Chile,South America,8.3815,7.237,5.551,6.9645,7.066,2.6415
+Santo Domingo,Dominican Republic,North America,9.289,8.076,4.56525,5.779,5.026,0.5
+Sao Paulo,Brazil,South America,8.316,7.823,4.412,5.2955,5.372,1.104
+Sarajevo,Bosnia and Herzegovina,Europe,9.6925,8.659,5.708,7.133,6.52566666666667,0
+Saskatoon,Canada,North America,7.1595,5.042,5.8055,6.638,7.514,5.344
+Seattle,Washington,North America,2.291,3.79,4.52375,5.6365,6.30966666666667,5.7145
+Seoul,South Korea,Asia,6.1425,3.698,5.719,8.305,8.549,6.8655
+Seville,Spain,Europe,8.0955,6.961,5.567,8.9295,8.22133333333333,4.2595
+Shanghai,China,Asia,5.744,7.179,5.0845,7.2085,6.206,5.6995
+Singapore,Singapore,Asia,1.745,3.489,5.42725,9.9715,7.68266666666667,8.2465
+Skopje,Macedonia,Europe,9.7405,9.11,5.7365,7.2795,6.62866666666667,0.5
+Sofia,Bulgaria,Europe,9.306,8.55,5.622,7.5505,5.58666666666667,2.0145
+St. Louis,Missouri,North America,6.958,5.504,5.0855,3.8805,6.67,5.2715
+Stockholm,Sweden,Europe,4.865,4.36,5.6855,6.8865,8.03933333333333,6.6675
+Stuttgart,Germany,Europe,6.314,5.673,6.2055,8.2695,7.85133333333333,5.0505
+Sydney,Australia,Oceania,1.9865,4.128,4.851,7.571,8.03366666666667,6.7255
+Taipei,Taiwan,Asia,7.977,5.644,5.6065,9.542,5.90533333333333,5.5895
+Tallinn,Estonia,Europe,8.3765,6.931,5.9325,9.4255,7.36633333333333,5.355
+Tampa Bay Area,Florida,North America,5.696,5.253,1.40075,4.7065,6.573,4.2805
+Tampere,Finland,Europe,6.936,4.622,6.3495,8.689,8.31633333333333,5.3895
+Tartu,Estonia,Europe,8.961,7.47,6.441,9.3765,8.395,5.4035
+Tashkent,Uzbekistan,Asia,5,0,0,8.9045,3.69333333333333,0
+Tbilisi,Georgia,Europe,9.4905,9.765,5.64425,9.506,5.05233333333333,0.8625
+Tehran,Iran,Asia,8.303,9.544,3.7995,6.793,5.31233333333333,0.51
+Tel Aviv,Israel,Asia,4.91,4.37,4.99425,8.0065,8.338,3.7665
+The Hague,Netherlands,Europe,6.053,4.653,5.061,8.789,8.214,4.3065
+Thessaloniki,Greece,Europe,9.3775,6.6,5.91375,7.992,7.509,3.1635
+Tokyo,Japan,Asia,5.657,3.431,6.0075,10,8.82633333333333,6.9805
+Toronto,Canada,North America,4.66,5.271,4.683,7.6935,8.06366666666667,7.6025
+Toulouse,France,Europe,7.544,4.552,5.06775,6.967,8.832,4.442
+Tunis,Tunisia,Africa,9.968,9.998,5.6145,8.2915,6.29266666666667,0.5
+Turin,Italy,Europe,8.0695,5.612,5.60925,6.252,8.36766666666667,4.1015
+Turku,Finland,Europe,7.534,5.07,6.7285,9.1755,8.71266666666667,5.3475
+Uppsala,Sweden,Europe,7.16,5.442,5.975,7.85,8.15266666666667,5.2045
+Utrecht,Netherlands,Europe,5.4665,4.604,5.99025,8.631,8.394,5.5915
+Valencia,Spain,Europe,8.1355,6.872,5.809,7.7865,8.88566666666667,4.266
+Valletta,Malta,Europe,3.153,0,0,8.518,8.107,2.8195
+Vancouver,Canada,North America,4.0805,5.259,4.93675,7.5695,8.03766666666667,6.889
+Victoria,Canada,North America,5.696,5.703,5.226,7.808,7.693,5.3815
+Vienna,Austria,Europe,6.314,5.111,6.21325,8.5965,8.198,4.8545
+Vilnius,Lithuania,Europe,8.621,7.576,5.92775,8.857,6.33066666666667,3.7
+Warsaw,Poland,Europe,7.8695,8.192,5.203,8.6995,6.88166666666667,4.6685
+Washington,District of Columbia,North America,1.2105,3.595,4.457,2.1915,6.258,5.9685
+Wellington,New Zealand,Oceania,5.1345,5.161,6.03975,8.223,8.07833333333333,4.756
+Winnipeg,Canada,North America,7.5525,5.882,5.1045,6.0155,7.75566666666667,5.344
+Wroclaw,Poland,Europe,8.452,8.434,4.95475,8.1655,6.78133333333333,4.1615
+Yerevan,Armenia,Asia,9.6945,9.431,5.64925,8.873,5.102,0
+Zagreb,Croatia,Europe,8.91,7.194,4.83,8.6575,7.266,3.211
+Zurich,Switzerland,Europe,1.473,1,5.8395,9.0665,7.67033333333333,7.2875
